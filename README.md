@@ -2,6 +2,9 @@
 
 [课程网站](https://ipads.se.sjtu.edu.cn/courses/ics/)
 
+
+课程教材：深入理解计算机系统（CS:APP）
+
 ## 课程简介
 
 ### 计算机系统基础（汇编）
