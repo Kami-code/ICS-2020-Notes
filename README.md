@@ -33,4 +33,4 @@
 
 ### 计算机系统基础（系统软件）
 
-![1](README/ICS(System Software).png)
+![1](README/ICS(System_Software).png)
